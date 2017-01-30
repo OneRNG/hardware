@@ -8426,7 +8426,7 @@ Source: www.bourns.com .. 6000_series.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="AP3105">
+<deviceset name="AP3015">
 <gates>
 <gate name="G$1" symbol="AP3015" x="2.54" y="0"/>
 </gates>
@@ -15288,7 +15288,7 @@ Copyright: Würth Elektronik eiSos</description>
 <part name="T1" library="transistor-neu-to92" deviceset="*-NPN-" device="SOT23-BEC" technology="BCF32"/>
 <part name="T2" library="transistor-neu-to92" deviceset="*-NPN-" device="SOT23-BEC" technology="BCF32"/>
 <part name="R11" library="rcl" deviceset="R-US_" device="R0603" value="470k"/>
-<part name="IC3" library="playa" deviceset="AP3105" device=""/>
+<part name="IC3" library="playa" deviceset="AP3015" device=""/>
 <part name="+3V4" library="supply1" deviceset="+3V3" device=""/>
 <part name="SUPPLY21" library="supply2" deviceset="GND" device=""/>
 <part name="D1" library="adafruit" deviceset="DIODE" device="SOD-323F"/>
